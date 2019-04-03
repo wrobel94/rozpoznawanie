@@ -4,5 +4,5 @@ Zadanie polegało na napisaniu prostego programu do rozpoznawania elementów ele
 Rozpoznawania monety odbywa się dzięki współczynnikowi Malinowskiej. Rezystory oraz układy scalone są rozpoznawane na postawie stosunku ich wielkości do moenty oraz wsółczynnika Malinowskiej. W celu rozpoznania diod oraz stabilizatorów wykorzystano jeszcze przestrzeń barw HSV.
 
 ![alt text](
-        rozpoznawanie/1.JPG
+        https://github.com/wrobel94/rozpoznawanie/blob/master/1.JPG
       )
